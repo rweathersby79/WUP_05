@@ -76,3 +76,5 @@ The p-value .00006596 is so small the results is not likely to occur by chance.T
 
 <!--Discussion and conclusion here.  If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason.  Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
 
+The question was is the new drug effective for females? We come to the conclusions that the drug was not effective and women were 1.5 times likely to get aides. 
+
